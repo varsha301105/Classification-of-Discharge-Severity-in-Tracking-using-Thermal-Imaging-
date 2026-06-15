@@ -15,7 +15,7 @@ Severity Index (DSI).
 
 Electrical tracking is a progressive surface degradation phenomenon in
 insulating materials. This project classifies the severity of tracking into
-4 stages — **Low, Medium, High, and Very High** — using thermal images
+4 stages — **Surface Discharge, Dry Band formation, Localised Bright Spot, and Track Path Formation** — using thermal images
 captured during IEC60587 standard tracking tests.
 
 The core idea is to extract physically meaningful features from thermal
